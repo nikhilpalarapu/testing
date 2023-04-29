@@ -10,8 +10,8 @@ class container extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       child: cardchild,
-      margin: EdgeInsets.all(16.0),
-      //helo world chage done in main
+      margin: EdgeInsets.all(15.0),
+      //helo world chage done in main really
       decoration: BoxDecoration(
        // color: Color(0xFF1D1E33),
         color: colour,
